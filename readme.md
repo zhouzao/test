@@ -38,3 +38,8 @@ git clone http://192.168.122.33:3080/shenhongchun/SLXM.git
 U(Untracked) 未跟踪(新增)
 A(added)
 M(modifed)跟踪后被修改
+
+# 创建快照(备份)
+
+git add . 将所有文件放到暂存区
+git commit -m "提交信息" 将暂存区文件提交到仓库
