@@ -7,6 +7,7 @@ console.log(a);
 console.log(a);
 console.log(a);
 console.log(a);
+console.log('qe')
 jQuery(function () {
   console.log(123);
 });
